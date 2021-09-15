@@ -1,8 +1,9 @@
 {
   "name": "porten",
   "version": "1.0.0",
-  "description": "",
+  "description": "Studing old project",
   "main": "index.js",
+  "homepage": https://ertanfird.github.io/porten/,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
